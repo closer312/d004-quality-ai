@@ -1,0 +1,8 @@
+data_processed/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+presentation/index.html
+data/
+results/feedback.csv
+presentation/final.html
